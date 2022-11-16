@@ -1,0 +1,16 @@
+C:\Users\kerem\OneDrive\Рабочий стол\Vtitbid.ISP20.Eremenko.Poute\Vtitbid.ISP20.Eremenko.Route\bin\Debug\Vtitbid.ISP20.Eremenko.Route.exe.config
+C:\Users\kerem\OneDrive\Рабочий стол\Vtitbid.ISP20.Eremenko.Poute\Vtitbid.ISP20.Eremenko.Route\bin\Debug\Vtitbid.ISP20.Eremenko.Route.exe
+C:\Users\kerem\OneDrive\Рабочий стол\Vtitbid.ISP20.Eremenko.Poute\Vtitbid.ISP20.Eremenko.Route\bin\Debug\Vtitbid.ISP20.Eremenko.Route.pdb
+C:\Users\kerem\OneDrive\Рабочий стол\Vtitbid.ISP20.Eremenko.Poute\Vtitbid.ISP20.Eremenko.Route\obj\Debug\Vtitbid.ISP20.Eremenko.Route.csproj.AssemblyReference.cache
+C:\Users\kerem\OneDrive\Рабочий стол\Vtitbid.ISP20.Eremenko.Poute\Vtitbid.ISP20.Eremenko.Route\obj\Debug\Vtitbid.ISP20.Eremenko.Route.csproj.SuggestedBindingRedirects.cache
+C:\Users\kerem\OneDrive\Рабочий стол\Vtitbid.ISP20.Eremenko.Poute\Vtitbid.ISP20.Eremenko.Route\obj\Debug\Vtitbid.ISP20.Eremenko.Route.csproj.CoreCompileInputs.cache
+C:\Users\kerem\OneDrive\Рабочий стол\Vtitbid.ISP20.Eremenko.Poute\Vtitbid.ISP20.Eremenko.Route\obj\Debug\Vtitbid.ISP20.Eremenko.Route.exe
+C:\Users\kerem\OneDrive\Рабочий стол\Vtitbid.ISP20.Eremenko.Poute\Vtitbid.ISP20.Eremenko.Route\obj\Debug\Vtitbid.ISP20.Eremenko.Route.pdb
+E:\Vtitbid.ISP20.Eremenko.Poute\Vtitbid.ISP20.Eremenko.Route\bin\Debug\Vtitbid.ISP20.Eremenko.Route.exe.config
+E:\Vtitbid.ISP20.Eremenko.Poute\Vtitbid.ISP20.Eremenko.Route\bin\Debug\Vtitbid.ISP20.Eremenko.Route.exe
+E:\Vtitbid.ISP20.Eremenko.Poute\Vtitbid.ISP20.Eremenko.Route\bin\Debug\Vtitbid.ISP20.Eremenko.Route.pdb
+E:\Vtitbid.ISP20.Eremenko.Poute\Vtitbid.ISP20.Eremenko.Route\obj\Debug\Vtitbid.ISP20.Eremenko.Route.csproj.AssemblyReference.cache
+E:\Vtitbid.ISP20.Eremenko.Poute\Vtitbid.ISP20.Eremenko.Route\obj\Debug\Vtitbid.ISP20.Eremenko.Route.csproj.SuggestedBindingRedirects.cache
+E:\Vtitbid.ISP20.Eremenko.Poute\Vtitbid.ISP20.Eremenko.Route\obj\Debug\Vtitbid.ISP20.Eremenko.Route.csproj.CoreCompileInputs.cache
+E:\Vtitbid.ISP20.Eremenko.Poute\Vtitbid.ISP20.Eremenko.Route\obj\Debug\Vtitbid.ISP20.Eremenko.Route.exe
+E:\Vtitbid.ISP20.Eremenko.Poute\Vtitbid.ISP20.Eremenko.Route\obj\Debug\Vtitbid.ISP20.Eremenko.Route.pdb
